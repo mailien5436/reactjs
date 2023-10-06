@@ -1,0 +1,50 @@
+.card{
+  border-style: solid; border-color: blue; margin: auto; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; width: 16%;
+}
+.body-card{
+  margin-left: 25px;
+}
+.name{
+  font-weight: bold;
+  color: blue
+}
+.member{
+  font-weight: bold;
+  color: red
+}
+.date{
+  font-weight: bold;
+}
+.carousel-inner{
+  height: 200px;
+  width: 200px;
+}
+.card{
+  height: 250px;
+  width: 250px;
+}
+.button{
+  text-align: center;
+}
+.gia{
+  color: yellow;
+}
+.price{
+  color: red;
+  font-size: xx-large;
+}
+.pro-price{
+  text-decoration: line-through;
+}
+.giohang{
+  text-align: center;
+}
+.table-macdinh{
+  background-color: aqua;
+}
+.thanhtoan{
+  padding-left: 70%;
+}
+.thanhtoan-mdinh{
+  font-weight: bold;
+}
